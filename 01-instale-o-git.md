@@ -17,11 +17,11 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Tem algumas funcoes que deixam o uso do git mais pratico, usaria para trabalhar no dia a dia -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Quando for necessario -->
 
 ---
 
@@ -31,11 +31,11 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Tem algumas funcoes que deixam o uso do git mais pratico, nao usaria pois nao tenho mac -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Quando tiver um mac -->
 
 ---
 
