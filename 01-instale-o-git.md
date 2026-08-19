@@ -57,7 +57,7 @@
 
 - [ x] 1. GitHub para Windows
 - [ x] 2. GitHub para Mac
-- [ ] 3. Git para todas as plataformas
+- [x ] 3. Git para todas as plataformas
 
 ---
 
