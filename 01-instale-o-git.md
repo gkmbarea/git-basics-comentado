@@ -45,18 +45,18 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- O git é uma ferramenta de versionamento e controle de repositorio para desenvolvimnento de codigo em conjunto  -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- TSempre, alem do git ajudar no versionamento do codigo sendo muito util ele tambem pode ser uma vitrine para seu curriculo e carreira -->
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. GitHub para Windows
-- [ ] 2. GitHub para Mac
+- [ x] 1. GitHub para Windows
+- [ x] 2. GitHub para Mac
 - [ ] 3. Git para todas as plataformas
 
 ---
