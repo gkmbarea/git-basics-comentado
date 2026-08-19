@@ -19,11 +19,11 @@ git init [nome-do-projeto]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- inicia um novo repositorio e da o nome a ele -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- o primeiro comando para iniciar um projeto -->
 
 ---
 
@@ -35,18 +35,18 @@ git clone [url]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- clona o repositorio do link que voce colocar -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- quando voce quiser clonar um repositorio do github. -->
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git init [nome-do-projeto]`
-- [ ] 2. `git clone [url]`
+- [ x] 1. `git init [nome-do-projeto]`
+- [ x] 2. `git clone [url]`
 
 ---
 
