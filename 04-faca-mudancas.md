@@ -19,11 +19,11 @@ git status
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Mostra em qual branch voce esta, se tem commits a serem feitos ex: "tem 2 arquivos modificados e nao comitados"
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+Quando nao se lembra em qual branch voce esta ou verificar se ha alguma pendencia
 
 ---
 
@@ -35,11 +35,11 @@ git diff
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+mostra todas diferencas do arquivo que ainda nao foram preparas ou seja, nao foram pro git add ainda
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+quando voce quer ver as modificacoes feitas que nao foram preparadas ainda
 
 ---
 
@@ -51,11 +51,11 @@ git add [arquivo]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+prepara o arquivo para ser commitado
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+voce terminou de modificar no arquivo salvou e agora vai querer comitar voce da git add . para mandar todos arquivos da branch para o preparo do commit ou apenas o arquivo em especifico como um git add faca-mudancas.md
 
 ---
 
@@ -67,11 +67,11 @@ git diff --staged
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+mostra as mudancas que voce ja fez com git add e estao preparadas para o commit
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+usar antes de fazer um commit para ver todas modificacoes  
 
 ---
 
@@ -83,11 +83,11 @@ git reset [arquivo]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+retira o arquivo da area de preparacao
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+o arquivo precisa ser modificado novamente ou esta incompleto
 
 ---
 
@@ -99,22 +99,22 @@ git commit -m "[mensagem descritiva]"
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+este gera o commit com sua mensagem do porque o arquivo foi alterado e gera a id do commit
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+quando voce terminar as modificacoes que precisava naquela brunch, para commitar e depois dar push para o github.
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git status`
-- [ ] 2. `git diff`
-- [ ] 3. `git add [arquivo]`
-- [ ] 4. `git diff --staged`
-- [ ] 5. `git reset [arquivo]`
-- [ ] 6. `git commit -m "[mensagem descritiva]"`
+- [ x] 1. `git status`
+- [ x] 2. `git diff`
+- [ x] 3. `git add [arquivo]`
+- [ x] 4. `git diff --staged`
+- [ x] 5. `git reset [arquivo]`
+- [ x] 6. `git commit -m "[mensagem descritiva]"`
 
 ---
 
