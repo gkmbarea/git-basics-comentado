@@ -23,7 +23,7 @@ git init [nome-do-projeto]
 
 **Quando usar / observação:**
 
-<!-- o primeiro comando para iniciar um projeto -->
+Uso apos configurar seu nome e email
 
 ---
 
@@ -35,11 +35,11 @@ git clone [url]
 
 **O que faz:**
 
-<!-- clona o repositorio do link que voce colocar -->
+clona o repositorio do link que voce colocar 
 
 **Quando usar / observação:**
 
-<!-- quando voce quiser clonar um repositorio do github. -->
+ quando voce quiser clonar um repositorio do github. 
 
 ---
 
