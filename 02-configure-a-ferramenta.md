@@ -19,11 +19,11 @@ git config --global user.name "[nome]"
 
 **O que faz:**
 
-<!-- Cria o username do usuario -->
+Cria o username do usuario 
 
 **Quando usar / observação:**
 
-<!-- usar para fazer login numa nova maquina  -->
+usar para fazer login numa nova maquina 
 
 ---
 
@@ -35,11 +35,11 @@ git config --global user.email "[endereco-de-email]"
 
 **O que faz:**
 
-<!-- Cadastra o email no git -->
+ Cadastra o email no git 
 
 **Quando usar / observação:**
 
-<!-- utiliza quando inicia o git na maquina nova -->
+ utiliza quando inicia o git na maquina nova 
 
 ---
 
