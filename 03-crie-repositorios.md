@@ -19,7 +19,7 @@ git init [nome-do-projeto]
 
 **O que faz:**
 
-<!-- inicia um novo repositorio e da o nome a ele -->
+ inicia um novo repositorio e da o nome a ele 
 
 **Quando usar / observação:**
 
