@@ -17,11 +17,11 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- Tem algumas funcoes que deixam o uso do git mais pratico, usaria para trabalhar no dia a dia -->
+Tem algumas funcoes que deixam o uso do git mais pratico, usaria para trabalhar no dia a dia 
 
 **Quando usar / observação:**
 
-<!-- Quando for necessario -->
+ Quando for necessario 
 
 ---
 
@@ -31,11 +31,11 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- Tem algumas funcoes que deixam o uso do git mais pratico, nao usaria pois nao tenho mac -->
+Tem algumas funcoes que deixam o uso do git mais pratico, nao usaria pois nao tenho mac 
 
 **Quando usar / observação:**
 
-<!-- Quando tiver um mac -->
+ Quando tiver um mac 
 
 ---
 
@@ -45,11 +45,11 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- O git é uma ferramenta de versionamento e controle de repositorio para desenvolvimnento de codigo em conjunto  -->
+O git é uma ferramenta de versionamento e controle de repositorio para desenvolvimnento de codigo em conjunto  
 
 **Quando usar / observação:**
 
-<!-- TSempre, alem do git ajudar no versionamento do codigo sendo muito util ele tambem pode ser uma vitrine para seu curriculo e carreira -->
+Sempre, alem do git ajudar no versionamento do codigo sendo muito util ele tambem pode ser uma vitrine para seu curriculo e carreira 
 
 ---
 
