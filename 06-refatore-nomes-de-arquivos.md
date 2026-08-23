@@ -19,11 +19,11 @@ git rm [arquivo]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+remove arquivos do git e localmente
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+usar quando o arquivo nao deve mais existir no projeto
 
 ---
 
@@ -35,11 +35,11 @@ git rm --cached [arquivo]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+remove os arquivos do git mas os mantem localmente
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+quando quer remover do versionamento em grupo mas quer manter no seu computador
 
 ---
 
@@ -51,19 +51,21 @@ git mv [arquivo-original] [arquivo-renomeado]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+serve para renomear um arquivo ou mover um arquivo 
+git mv [arquivo-original] [arquivo-renomeado] = este renomeia o arquivo
+git mv [nome-do-arquivo] [local-destino (docs/downloads)]
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+quando se quer renomear um arquivo ao inves de apagar o arquivo antigo e commitar um arquivo novo
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git rm [arquivo]`
-- [ ] 2. `git rm --cached [arquivo]`
-- [ ] 3. `git mv [arquivo-original] [arquivo-renomeado]`
+- [ x] 1. `git rm [arquivo]`
+- [ x] 2. `git rm --cached [arquivo]`
+- [ x] 3. `git mv [arquivo-original] [arquivo-renomeado]`
 
 ---
 
