@@ -19,11 +19,10 @@ git branch
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
-
+voce consegue listar todas as ramificacoes(branches) locais  do repositorio atual.
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+imagino que usamos para ver quais branches estao no local e tambem mostrar em qual branch voce esta atualmente 
 
 ---
 
@@ -34,12 +33,12 @@ git branch [nome-do-branch]
 ```
 
 **O que faz:**
+cria uma nova branch e escreve o nome dela
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+quando voce quiser fazer uma nova branch para modificar um arquivo em especifico
 
 ---
 
@@ -51,11 +50,11 @@ git switch -c [nome-do-branch]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Ele muda para a brench especificada e o arquivo modificado so aparece naquela branch
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+quando voce quer testar uma modificacao em uma brench sem modificar esta brench atual, voce cria outra brench por exemplo e este arquivo em especifico so aparecera la
 
 ---
 
@@ -67,12 +66,11 @@ git merge [nome-do-branch]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+junta o historico da brench especificada a brench atual
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
-
+quando voce ja terminou as modificacoes necessarias nas duas brenchs
 ---
 
 ### 5. `git branch -d [nome-do-branch]`
@@ -82,22 +80,21 @@ git branch -d [nome-do-branch]
 ```
 
 **O que faz:**
-
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+exclui a branch especificada
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+quando voce ja concluiu todas modificacoes necessarias e nao vai mais usar aquela branch
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git branch`
-- [ ] 2. `git branch [nome-do-branch]`
-- [ ] 3. `git switch -c [nome-do-branch]`
-- [ ] 4. `git merge [nome-do-branch]`
-- [ ] 5. `git branch -d [nome-do-branch]`
+- [ x] 1. `git branch`
+- [ x] 2. `git branch [nome-do-branch]`
+- [ x] 3. `git switch -c [nome-do-branch]`
+- [ x] 4. `git merge [nome-do-branch]`
+- [ x] 5. `git branch -d [nome-do-branch]`
 
 ---
 
