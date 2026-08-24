@@ -21,11 +21,11 @@ temp-*
 
 **O que este arquivo faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+ele diz ao git quais arquivos e pastas devem ser ignorados, evitando que sejam incluidos no controle de versao.
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+quando nao quer adicionar algum arquivo ou pasta ao versionamento, como logs etc.
 
 ---
 
@@ -37,18 +37,22 @@ git ls-files --others --ignored --exclude-standard
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Lista arquivos não rastreados pelo Git que foram ignorados pelas regras padrão.
+`--others` seleciona arquivos que ainda não foram adicionados ao controle de versão.
+`--ignored` mostra os arquivos ignorados, e `--exclude-standard` considera regras do `.gitignore`.
+
+
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+Use para conferir quais arquivos estão sendo ignorados antes de revisar ou alterar o `.gitignore`.
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. Arquivo `.gitignore`
-- [ ] 2. `git ls-files --others --ignored --exclude-standard`
+- [ x] 1. Arquivo `.gitignore`
+- [ x] 2. `git ls-files --others --ignored --exclude-standard`
 
 ---
 
