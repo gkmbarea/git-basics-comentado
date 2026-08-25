@@ -41,6 +41,7 @@ Lista arquivos não rastreados pelo Git que foram ignorados pelas regras padrão
 `--others` seleciona arquivos que ainda não foram adicionados ao controle de versão.
 `--ignored` mostra os arquivos ignorados, e `--exclude-standard` considera regras do `.gitignore`.
 
+AQUI EU MUDEI TESTE DA BRANCH!!
 
 
 **Quando usar / observação:**
